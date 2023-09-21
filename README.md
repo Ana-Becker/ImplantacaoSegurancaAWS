@@ -1,4 +1,4 @@
-# RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+# RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA  :closed_lock_with_key: 🛡️
 
 Data: 21/09/2023
 Empresa: PharmaNova Labs
@@ -87,7 +87,7 @@ A implementação de ferramentas na empresa *PharmaNova Labs tem como esperado o
 
 [https://aws.amazon.com/pt/kms/features/]
 
-[PPT]: 
+[Apresentação PPT](https://github.com/Ana-Becker/ImplantacaoSegurancaAWS/blob/main/ImplementacaoMedidasSeguranca.pdf)
 
 Assinatura do Responsável pelo Projeto:
 
